@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://admin:dangerman@cluster0.z9v9j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "escrosissecret": "escrosissecret"
+}

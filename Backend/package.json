@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Escrosis Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "n",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "keywords": [
+    "escrosis"
+  ],
+  "author": "moses egboh",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3",
+    "uuid": "^8.3.2"
+  }
+}
